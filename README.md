@@ -129,3 +129,28 @@ public class DivisionController {
 
 }
 ~~~
+
+Cuando hacemos una peticion al programa, en caso de que pase el timeout para obtener datos se ira a la funcion fallback que se haya elegido, que en este caso regresa lo siguiente.
+![Timeout](./Imagenes/1.png "Timeout")
+
+Si no excede el timeout se mostrará lo siguiente, que en este caso no hay datos aún.
+![GET Vacio](./Imagenes/2.png "GET Vacio")
+
+Ahora se hará un POST para datos, que es menos probable que ocurra un error.
+![POST exitoso](./Imagenes/3.png "POST exitoso")
+
+En caso de que ocurra un error se mostrará lo siguiente.
+![POST fallido](./Imagenes/4.png "POST fallido")
+
+Podemos ver la falla en la consola por medio de un warning.
+![Warning falla](./Imagenes/5.png "Warning falla")
+
+Por ultimo, esto se mostraría en caso de que haya datos en el programa.
+![GET con datos](./Imagenes/6.png "GET con datos")
+
+---
+
+## Conclusión
+Esta actividad ayudó mucho para aprender nuevas herramientas en otros lenguajes como lo es Java. Esta herramienta es bastante útil, pues maneja bastante bien los errores, permitiendo redireccionar una función en caso de que un error ocurra, o cualquiera de las condiciones como un timeout ocurra.
+
+Por estas razones puede llegar a ser muy útil esta herramienta en caso de que se programe con Java.

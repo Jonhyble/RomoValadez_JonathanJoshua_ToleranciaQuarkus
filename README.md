@@ -154,3 +154,18 @@ Por ultimo, esto se mostraría en caso de que haya datos en el programa.
 Esta actividad ayudó mucho para aprender nuevas herramientas en otros lenguajes como lo es Java. Esta herramienta es bastante útil, pues maneja bastante bien los errores, permitiendo redireccionar una función en caso de que un error ocurra, o cualquiera de las condiciones como un timeout ocurra.
 
 Por estas razones puede llegar a ser muy útil esta herramienta en caso de que se programe con Java.
+
+## Bibliografía
+IBM Documentation. (n.d.). https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications
+
+Cuervo, P. V. (2021, March 2). ¿Qué es Jakarta EE? Arquitecto IT. https://www.arquitectoit.com/java/que-es-jakarta-ee/
+
+Briceño, G. (2017, October 5). Que es Eclipse MicroProfile. Club De Tecnología. https://www.clubdetecnologia.net/blog/2017/que-es-eclipse-microprofile/
+
+School, T. (2022b). ¿Qué es Spring Boot y para qué sirve? Tokio School. https://www.tokioschool.com/noticias/spring-boot/
+
+¿Qué es Quarkus? (n.d.). https://www.redhat.com/es/topics/cloud-native-apps/what-is-quarkus
+
+Alarcón, J. M. (n.d.). Java: ¿Qué es Maven? ¿Qué es el archivo pom.xml? - campusMVP.es. campusMVP.es. https://www.campusmvp.es/recursos/post/java-que-es-maven-que-es-el-archivo-pom-xml.aspx
+
+Muradas, Y. (2023, April 14). Qué es Gradle: La herramienta para ser más productivo desarrollando. OpenWebinars.net. https://openwebinars.net/blog/que-es-gradle/
